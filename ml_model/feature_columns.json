@@ -1,0 +1,1 @@
+["duration", "bytes_sent", "bytes_received", "packets_sent", "packets_received", "source_port", "destination_port", "protocol_TCP", "protocol_UDP", "protocol_ICMP", "service_http", "service_https", "service_ftp", "service_ssh", "service_smtp", "service_dns", "service_other"]

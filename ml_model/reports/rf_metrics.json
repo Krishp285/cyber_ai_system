@@ -1,0 +1,18 @@
+{
+  "model": "RandomForest",
+  "accuracy": 0.9712,
+  "f1_score": 0.9712,
+  "n_estimators": 150,
+  "trained_at": "2026-04-20T15:56:59.852093",
+  "classes": [
+    "BruteForce",
+    "DDoS",
+    "DoS",
+    "Normal",
+    "PortScan",
+    "Probe",
+    "R2L",
+    "SQLInjection",
+    "U2R"
+  ]
+}
